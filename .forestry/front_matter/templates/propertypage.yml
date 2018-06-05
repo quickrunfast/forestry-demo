@@ -26,3 +26,5 @@ fields:
 - type: image_gallery
   name: property_gallery
   label: property gallery
+pages:
+- aberdeen.html
