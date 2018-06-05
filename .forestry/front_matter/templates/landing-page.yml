@@ -67,8 +67,8 @@ fields:
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
 - type: image_gallery
-  name: partners
-  label: Partner Logos
+  name: custoers
+  label: Customers
 - type: boolean
   name: show_staff
   label: Show Staff?
