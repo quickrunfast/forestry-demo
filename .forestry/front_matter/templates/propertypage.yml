@@ -2,6 +2,9 @@
 hide_body: false
 is_partial: false
 fields:
+- type: file
+  name: hero
+  label: hero
 - type: text
   name: property_name
   label: property name
@@ -17,6 +20,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: number
-  name: rent_amount
-  label: rent amount
+- type: tag_list
+  name: neighborhood
+  label: neighborhood
+- type: image_gallery
+  name: property_gallery
+  label: property gallery
