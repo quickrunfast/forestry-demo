@@ -79,4 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
+- apartments-for-rent.html
 - index.md
