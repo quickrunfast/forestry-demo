@@ -1,0 +1,22 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: property_name
+  label: property name
+  config:
+    required: true
+- type: textarea
+  name: property_address
+  label: Property Address
+- type: textarea
+  name: property_description
+  label: property description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: number
+  name: rent_amount
+  label: rent amount
