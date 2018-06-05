@@ -27,4 +27,5 @@ fields:
   name: property_gallery
   label: property gallery
 pages:
+- apartments-for-rent.html
 - aberdeen.html
